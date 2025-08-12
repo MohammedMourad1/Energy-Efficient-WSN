@@ -3,7 +3,7 @@ This repository contains MATLAB code that implements a comprehensive simulation 
 
 LEACH is a well-known hierarchical clustering protocol specifically designed to enhance the energy efficiency of sensor nodes in a WSN. By organizing nodes into dynamic clusters with rotating cluster heads, LEACH significantly reduces energy consumption, thus prolonging the overall network lifetime.
 
-Key Features:
+# Key Features:
 Hierarchical Clustering: Nodes are grouped into clusters, each managed by a cluster head responsible for aggregating and forwarding data.
 
 Energy Efficiency: The protocol reduces redundant data transmissions and balances energy usage by rotating cluster heads periodically.
@@ -14,10 +14,10 @@ Scalability: Suitable for large-scale deployments of sensor nodes with minimal o
 
 Simulation Parameters: Configurable number of nodes, initial energy, data packet size, and rounds of operation.
 
-Purpose:
+# Purpose:
 The simulation helps researchers and engineers study the behavior and performance of the LEACH protocol in different network settings, enabling optimization and development of more efficient WSN applications.
 
-How to Use:
+# How to Use:
 1) Configure simulation parameters in the MATLAB script.
 
 2) Run the simulation to observe energy consumption, cluster formation, and network lifetime.
