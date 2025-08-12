@@ -23,7 +23,7 @@ The simulation helps researchers and engineers study the behavior and performanc
 2) Run the simulation to observe energy consumption, cluster formation, and network lifetime.
 
 3) Analyze the results to evaluate the efficiency of the LEACH protocol.
-
+# 
 <img width="1490" height="846" alt="image" src="https://github.com/user-attachments/assets/5ad20d88-f75d-4da2-bb85-303d6b0c8d54" />
 <img width="1491" height="834" alt="image" src="https://github.com/user-attachments/assets/bf51fa9a-05d8-4543-b14f-8500385f0ab0" />
 
